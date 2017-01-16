@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Package Control"
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSScomb",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Gulp",
+		"LESS",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"Terminal",
+		"View In Browser"
+	]
+}

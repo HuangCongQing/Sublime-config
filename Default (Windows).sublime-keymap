@@ -1,0 +1,4 @@
+[
+	{ "keys": ["alt+space"], "command": "auto_complete" },
+    { "keys": ["ctrl+alt+space"], "command": "open_in_browser" },
+]

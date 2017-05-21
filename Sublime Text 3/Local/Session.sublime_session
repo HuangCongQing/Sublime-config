@@ -1,0 +1,1458 @@
+{
+	"folder_history":
+	[
+		"/D/前端后台",
+		"/D/前端后台/练习",
+		"/D/前端后台/HTML5-/HTML5 canvas圣诞节雪花网页背景代码",
+		"/D/前端后台/HTML5-",
+		"/D/前端后台/less",
+		"/D/前端后台/H5小组任务",
+		"/D/前端后台/H5小组任务/CampussayH5",
+		"/D/前端后台/H5小组任务/Angularjs",
+		"/D/前端后台/H5小组任务/Angularjs/angularjs菜鸟",
+		"/D/前端后台/CQUPTBeeStudy/campusSay/campusSay",
+		"/C/Users/朝露昙花/Desktop/前端后台/练习",
+		"/D/前端视频/js/JS学习",
+		"/C/Users/朝露昙花/Desktop/加入我们-黄重庆",
+		"/C/Users/朝露昙花/Desktop/QFFWebsite/加入我们-黄重庆",
+		"/C/Users/朝露昙花/Desktop/QFFWebsite/加入我们",
+		"/C/Users/朝露昙花/Desktop/particles.js-master/particles.js-master/demo",
+		"/C/Users/朝露昙花/Desktop/QFFWebsite/头部和尾部",
+		"/D/前端视频/js/JS学习/0-妙味课堂原创JavaScript视频教程——JS学前预热课程5集资料",
+		"/D/前端视频/js/JS学习/0-妙味课堂原创JavaScript视频教程——JS学前预热课程5集资料/1.课程资料1",
+		"/C/Users/朝露昙花/Desktop/前端后台/作业/大作业1",
+		"/E/weather-forcast",
+		"/C/Users/朝露昙花/Desktop/前端后台/作业/练习作业/无缝滚动图片轮播图",
+		"/D/前端视频/js/JS学习/0-妙味课堂原创JavaScript视频教程——JS学前预热课程5集资料/4.课程案例4/无缝滚动图片",
+		"/D/前端视频/js/JS学习/5-妙味课堂原创JavaScript视频教程——AJAX资料/5-妙味课堂原创JavaScript视频教程——AJAX资料",
+		"/C/Users/朝露昙花/Desktop/前端后台/【批量下载】06妙味课堂——Windows计算器（简易版）作业练习等/前端/妙味课堂js视频教程/妙味js视教第五部分/12妙味课堂——倒计时效果",
+		"/D/前端视频/js/JS学习/6-妙味课堂原创JavaScript视频教程——运动课程(9课)课程资料/6-妙味课堂原创JavaScript视频教程——运动课程(9课)课程资料",
+		"/C/Users/朝露昙花/Desktop/前端后台/【批量下载】06妙味课堂——Windows计算器（简易版）作业练习等/前端/妙味课堂js视频教程/妙味js视教第五部分/06妙味课堂——Windows计算器（简易版）作业练习",
+		"/C/Users/朝露昙花/Desktop/前端后台/大作业1"
+	],
+	"last_version": 3126,
+	"last_window_id": 84,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 720.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"j",
+						"juicer"
+					],
+					[
+						"table",
+						"table-cell"
+					],
+					[
+						"border-",
+						"border-color"
+					],
+					[
+						"re",
+						"required\tAttr"
+					],
+					[
+						"user",
+						"userInfoModule"
+					],
+					[
+						"background",
+						"background"
+					],
+					[
+						"out",
+						"outline"
+					],
+					[
+						"back",
+						"background-clip"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"div",
+						"divNode"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"colr",
+						"color"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"per",
+						"person1"
+					],
+					[
+						"get",
+						"getHome"
+					],
+					[
+						"height",
+						"height"
+					],
+					[
+						"a",
+						"aLi"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"off",
+						"offsetWidth"
+					],
+					[
+						"offset",
+						"offsetLeft"
+					],
+					[
+						"o",
+						"oUl"
+					],
+					[
+						"on",
+						"onclick"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"bott",
+						"bottom_right"
+					],
+					[
+						"bottom",
+						"bottom_left"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"marg",
+						"margin-right"
+					],
+					[
+						"float",
+						"float-left"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"ti",
+						"title\tTag"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 196.0,
+				"last_filter": "key",
+				"selected_items":
+				[
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"thml",
+						"Set Syntax: HTML"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"package",
+						"Preferences: Browse Packages"
+					],
+					[
+						"c",
+						"Set Syntax: C++"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"setdef",
+						"Preferences: Settings - Default"
+					],
+					[
+						"keybud",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"wrap",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"hm",
+						"Set Syntax: HTML"
+					],
+					[
+						"pc",
+						"Package Control: Remove Package"
+					],
+					[
+						"snippet",
+						"Snippet: Function"
+					],
+					[
+						"ssfu",
+						"Snippet: setTimeout function"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Install Package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 186.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by)",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = pf2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/朝露昙花/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/前端后台/练习/Juicer/juicer.js",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/view/list.handlebars",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/main.less",
+				"/D/前端后台/CQUPTBeeStudy/campusSay/campusSay/src/main/webapp/static/js/lib/juicer.js",
+				"/D/前端后台/常用插件及样式/Reset/PaulGuo-Juicer-9709d18/README.md",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/main.js",
+				"/C/Users/朝露昙花/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/朝露昙花/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/view/creamList.handlebars",
+				"/C/blog/source/_posts/Sublime侧边栏字体变大.md",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/main.handlebars",
+				"/D/前端后台/项目/campussay_tutor/webpack.config.js",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/list.handlebars",
+				"/D/前端后台/项目/campussay_tutor/app/page/talkingDetails/main.handlebars",
+				"/D/前端后台/项目/campussay_tutor/app/template.ejs",
+				"/D/前端后台/项目/campussay_tutor/app/page/example/main.js",
+				"/D/前端后台/项目/campussay_tutor/build.sh",
+				"/D/前端后台/项目/campussay_tutor/package.json",
+				"/D/前端后台/练习/垂直水平居中.html",
+				"/D/前端后台/练习/图片水平垂直居中.html",
+				"/D/前端后台/常用插件及样式/Reset/clearfix.css",
+				"/D/前端后台/css单位.html",
+				"/D/前端后台/BFC.html",
+				"/D/前端后台/圣杯布局.html",
+				"/D/前端后台/css/styles/main.css",
+				"/D/前端后台/less/less/index.html",
+				"/D/前端后台/项目/campussay_tutor/mock/api/order/list.json",
+				"/D/前端后台/项目/campussay_tutor/README.md",
+				"/C/blog/themes/hexo-theme-yilia/_config.yml",
+				"/C/blog/_config.yml",
+				"/D/前端后台/练习/网站底部.html",
+				"/C/blog/source/CNAME",
+				"/D/前端后台/markdown-img-upload/README.md",
+				"/C/Users/朝露昙花/Desktop/yilia/_config.yml",
+				"/C/blog/themes/yilia（1）/_config.yml",
+				"/C/blog/themes/yilia/_config.yml",
+				"/D/前端后台/HTML5-/绘制圆弧和贝塞尔曲线.html",
+				"/C/blog/source/_posts/HTML5-canvas之绘制圆弧和贝塞尔曲线.md",
+				"/C/blog/source/_posts/项目常用的less语法详解.md",
+				"/C/blog/source/_posts/HTML5-Canvas初探.md",
+				"/C/blog/source/_posts/JS-我待this如初见.md",
+				"/C/blog/source/_posts/AngularJs指令解密.md",
+				"/C/blog/source/_posts/HTML5-Canvas之矩阵和多边形的绘制.md",
+				"/C/blog/source/_posts/AngularJs浅谈.md",
+				"/D/前端后台/HTML5-/HTML5-canvas入门（用于博文）.html",
+				"/D/前端后台/HTML5-/Canvas绘制时钟.html",
+				"/D/前端后台/H5小组任务/世界卫生组织_百度百科.html",
+				"/D/前端后台/作业/练习JS作业/tab选项卡/tab.html",
+				"/D/前端后台/作业/练习JS作业/播放列表收缩展开/miaov.js",
+				"/D/前端后台/作业/练习JS作业/播放列表收缩展开/播放列表.html",
+				"/D/前端后台/less/index.html",
+				"/D/前端后台/less/styles/main.css",
+				"/D/前端后台/less/styles/main.less",
+				"/D/前端后台/less/less-资料级源码/Less/less_lizi/style/main.less",
+				"/D/前端后台/less/less-资料级源码/Less/less_lizi/index.html",
+				"/D/前端后台/less/less-资料级源码/Less/less_lizi/style/main.css",
+				"/D/前端后台/less/less-资料级源码/Less/less_lizi/style/a.css",
+				"/D/前端后台/less/less-资料级源码/Less/less_lizi/style/ku.less",
+				"/D/前端后台/H5小组任务/CampussayH5/app/scripts/areas/topic/hot/hot.ctrl.js",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/js/main.js",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/index2.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/index.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/angularjs菜鸟/外部文件中的控制器html.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/angularjs菜鸟/外部文件中的控制器.js",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第一章第一节快速上手源代码/AngularJS实战第一章第一节源代码/app/HelloAngular_Module.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第一章第一节快速上手源代码/AngularJS实战第一章第一节源代码/app/HelloAngular_Module.js",
+				"/D/前端后台/H5小组任务/CampussayH5/dist/res/styles/bundle.css",
+				"/D/前端后台/H5小组任务/CampussayH5/app/res/styles/topic-hot.less",
+				"/D/前端后台/H5小组任务/CampussayH5/app/res/styles/css/topic-hot.css",
+				"/D/前端后台/H5小组任务/CampussayH5/app/scripts/areas/topic/topic.route.js",
+				"/D/前端后台/H5小组任务/CampussayH5/app/scripts/areas/topic/topic.ctrl.js",
+				"/D/前端后台/H5小组任务/CampussayH5/dist/bundle.js",
+				"/D/前端后台/H5小组任务/CampussayH5/app/index.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/创建和部署controller.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/UI-Router练习/UI.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/UI-Router练习/UI.js",
+				"/D/前端后台/H5小组任务/AngularJS-/README.md",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/index-disabled.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/js/创建和部署controller.js",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第三章第三节指令的执行过程源代码/03-04 Two-Way Data Binding-表单验证/Form.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/03-04 Two-Way Data Binding-表单验证/Form.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJs练习/$filter.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第三章第一节AngularJS的启动过程源代码/Boot3.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/index.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第三章第一节AngularJS的启动过程源代码/Boot1.js",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第三章第一节AngularJS的启动过程源代码/angular-obj.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/main.js",
+				"/D/前端后台/H5小组任务/CampussayH5/readme.txt",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/NgClass.js",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/NgClass.css",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/NgClass.html",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/Form.html",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/CSS1.css",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/NgShow.js",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/CSS1.js",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/Form.js",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/HelloAngular_bind.html",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第一节MVC源代码/AngularJS实战第二章第一节MVC源代码/app/Scope1.html",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/CSS1.html",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第一节MVC源代码/AngularJS实战第二章第一节MVC源代码/app/Scope1.css",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/NgShow.html",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第二节路由、模块、依赖注入源代码-BookStore/app/index.html",
+				"/C/Users/朝露昙花/Desktop/响应式web设计.md",
+				"/D/前端后台/H5小组任务/Angularjs/angularjs菜鸟/Angular.html",
+				"/D/前端后台/H5小组任务/Angularjs/angularjs菜鸟/Ajs模型.html",
+				"/C/Users/朝露昙花/AppData/Local/Temp/HZ$D.845.2846/HZ$D.845.2847/angular.js-master/README.md",
+				"/D/数据结构与C++专属/c++.cpp",
+				"/D/前端后台/CQUPTBeeStudy/campusSay/campusSay/README.md",
+				"/E/陈维东",
+				"/C/Users/朝露昙花/Desktop/team2-a68cfad8039b8fc940b85665f56595cfdb84db97/HuangChongqing/index.html",
+				"/D/前端后台/练习/雪碧图/csssprite.html",
+				"/D/前端后台/练习/分页页码制作/分页页码制作（源代码）/加入小图标 i.htm",
+				"/D/前端后台/练习/雪碧图/csssprite.css",
+				"/D/前端后台/练习/padding50%实现正方形.html",
+				"/D/前端后台/练习/分页页码制作/修复行内bug.html",
+				"/D/前端后台/练习/导航条制作/滚动导航条.html",
+				"/C/Users/朝露昙花/AppData/Local/Temp/HZ$D.229.4972/HZ$D.229.4973/JavaScript面向对象/JavaScriptOO编程.md",
+				"/D/前端后台/作业/学习任务1/html/style/css.css",
+				"/D/前端后台/练习/分页页码制作/分页1.html",
+				"/D/前端后台/练习/手把手教你实现电商网站开发/index.html",
+				"/D/前端后台/练习/手把手教你实现电商网站开发/style/style.css",
+				"/D/前端后台/常用插件及样式/reset.css",
+				"/D/前端后台/常用插件及样式/样式重置表.css",
+				"/D/前端后台/练习/padding实现鱼眼和三道杠效果.html",
+				"/D/前端后台/练习/高度可控的分割线 登陆  注册.html",
+				"/D/前端后台/练习/自制label按钮.html",
+				"/D/前端后台/练习/inline元素的padding换行.html"
+			],
+			"find":
+			{
+				"height": 59.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"header",
+					"tpl",
+					"side",
+					"siderbar",
+					"sider",
+					"header",
+					"IscrollRe",
+					"IscrollRefresh",
+					".first",
+					"=\"\"",
+					"这里是面板的主体区域",
+					"title",
+					"},\n",
+					"auto_complete",
+					"saf",
+					"fgdhndgf",
+					"images",
+					"images3",
+					";\n",
+					"this",
+					"fff",
+					"aSum",
+					"0",
+					";\n",
+					"center",
+					"2",
+					"5",
+					"getElementsByClassName('day')",
+					"getElementsByClassName",
+					"<a href=\"http://www.miaov.com/\"><img src=\"images/1.jpg\" />",
+					"fnSucc",
+					"<ul>\n\t\t\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>",
+					"li",
+					"function",
+					"Microsoft",
+					"new",
+					"#\n",
+					"><",
+					"title"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 51.0
+			},
+			"input":
+			{
+				"height": 56.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 98.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"juicer",
+						"CQUPTBeeStudy\\campusSay\\campusSay\\src\\main\\webapp\\static\\js\\lib\\juicer.js"
+					],
+					[
+						"css",
+						"练习css.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 297.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 961.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"j",
+						"juicer"
+					],
+					[
+						"table",
+						"table-cell"
+					],
+					[
+						"border-",
+						"border-color"
+					],
+					[
+						"re",
+						"required\tAttr"
+					],
+					[
+						"user",
+						"userInfoModule"
+					],
+					[
+						"background",
+						"background"
+					],
+					[
+						"out",
+						"outline"
+					],
+					[
+						"back",
+						"background-clip"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"div",
+						"divNode"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"colr",
+						"color"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"per",
+						"person1"
+					],
+					[
+						"get",
+						"getHome"
+					],
+					[
+						"height",
+						"height"
+					],
+					[
+						"a",
+						"aLi"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"off",
+						"offsetWidth"
+					],
+					[
+						"offset",
+						"offsetLeft"
+					],
+					[
+						"o",
+						"oUl"
+					],
+					[
+						"on",
+						"onclick"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"bott",
+						"bottom_right"
+					],
+					[
+						"bottom",
+						"bottom_left"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"marg",
+						"margin-right"
+					],
+					[
+						"float",
+						"float-left"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"ti",
+						"title\tTag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/前端后台/项目/campussay_tutor/README.md",
+					"settings":
+					{
+						"buffer_size": 716,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/前端后台/项目/campussay_tutor/app/page/index/main.js",
+					"settings":
+					{
+						"buffer_size": 6277,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/前端后台/项目/campussay_tutor/app/page/index/main.handlebars",
+					"settings":
+					{
+						"buffer_size": 104,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/前端后台/项目/campussay_tutor/app/page/index/view/creamListFooter.handlebars",
+					"settings":
+					{
+						"buffer_size": 107,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/前端后台/项目/campussay_tutor/app/page/index/list.handlebars",
+					"settings":
+					{
+						"buffer_size": 527,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/前端后台/项目/campussay_tutor/app.json",
+					"settings":
+					{
+						"buffer_size": 823,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"thml",
+						"Set Syntax: HTML"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"package",
+						"Preferences: Browse Packages"
+					],
+					[
+						"c",
+						"Set Syntax: C++"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"setdef",
+						"Preferences: Settings - Default"
+					],
+					[
+						"keybud",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"wrap",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"hm",
+						"Set Syntax: HTML"
+					],
+					[
+						"pc",
+						"Package Control: Remove Package"
+					],
+					[
+						"snippet",
+						"Snippet: Function"
+					],
+					[
+						"ssfu",
+						"Snippet: setTimeout function"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Install Package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 186.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by)",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = pf2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/前端后台",
+				"/D/前端后台/练习",
+				"/D/前端后台/练习/精通css练习",
+				"/D/前端后台/练习/Juicer",
+				"/D/前端后台/项目",
+				"/D/前端后台/项目/campussay_tutor",
+				"/D/前端后台/项目/campussay_tutor/app",
+				"/D/前端后台/项目/campussay_tutor/app/page",
+				"/D/前端后台/项目/campussay_tutor/app/page/index",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/view",
+				"/D/前端后台/项目/campussay_tutor/app/service"
+			],
+			"file_history":
+			[
+				"/D/前端后台/练习/Juicer/Juicer入门实例.html",
+				"/C/Users/朝露昙花/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/C/Users/朝露昙花/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/朝露昙花/AppData/Roaming/Sublime Text 3/Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+				"/C/Users/朝露昙花/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/朝露昙花/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/前端后台/练习/Juicer/juicer.js",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/view/list.handlebars",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/main.less",
+				"/D/前端后台/CQUPTBeeStudy/campusSay/campusSay/src/main/webapp/static/js/lib/juicer.js",
+				"/D/前端后台/常用插件及样式/Reset/PaulGuo-Juicer-9709d18/README.md",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/main.js",
+				"/C/Users/朝露昙花/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/朝露昙花/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/view/creamList.handlebars",
+				"/C/blog/source/_posts/Sublime侧边栏字体变大.md",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/main.handlebars",
+				"/D/前端后台/项目/campussay_tutor/webpack.config.js",
+				"/D/前端后台/项目/campussay_tutor/app/page/index/list.handlebars",
+				"/D/前端后台/项目/campussay_tutor/app/page/talkingDetails/main.handlebars",
+				"/D/前端后台/项目/campussay_tutor/app/template.ejs",
+				"/D/前端后台/项目/campussay_tutor/app/page/example/main.js",
+				"/D/前端后台/项目/campussay_tutor/build.sh",
+				"/D/前端后台/项目/campussay_tutor/package.json",
+				"/D/前端后台/练习/垂直水平居中.html",
+				"/D/前端后台/练习/图片水平垂直居中.html",
+				"/D/前端后台/常用插件及样式/Reset/clearfix.css",
+				"/D/前端后台/css单位.html",
+				"/D/前端后台/BFC.html",
+				"/D/前端后台/圣杯布局.html",
+				"/D/前端后台/css/styles/main.css",
+				"/D/前端后台/less/less/index.html",
+				"/D/前端后台/项目/campussay_tutor/mock/api/order/list.json",
+				"/D/前端后台/项目/campussay_tutor/README.md",
+				"/C/blog/themes/hexo-theme-yilia/_config.yml",
+				"/C/blog/_config.yml",
+				"/D/前端后台/练习/网站底部.html",
+				"/C/blog/source/CNAME",
+				"/D/前端后台/markdown-img-upload/README.md",
+				"/C/Users/朝露昙花/Desktop/yilia/_config.yml",
+				"/C/blog/themes/yilia（1）/_config.yml",
+				"/C/blog/themes/yilia/_config.yml",
+				"/D/前端后台/HTML5-/绘制圆弧和贝塞尔曲线.html",
+				"/C/blog/source/_posts/HTML5-canvas之绘制圆弧和贝塞尔曲线.md",
+				"/C/blog/source/_posts/项目常用的less语法详解.md",
+				"/C/blog/source/_posts/HTML5-Canvas初探.md",
+				"/C/blog/source/_posts/JS-我待this如初见.md",
+				"/C/blog/source/_posts/AngularJs指令解密.md",
+				"/C/blog/source/_posts/HTML5-Canvas之矩阵和多边形的绘制.md",
+				"/C/blog/source/_posts/AngularJs浅谈.md",
+				"/D/前端后台/HTML5-/HTML5-canvas入门（用于博文）.html",
+				"/D/前端后台/HTML5-/Canvas绘制时钟.html",
+				"/D/前端后台/H5小组任务/世界卫生组织_百度百科.html",
+				"/D/前端后台/作业/练习JS作业/tab选项卡/tab.html",
+				"/D/前端后台/作业/练习JS作业/播放列表收缩展开/miaov.js",
+				"/D/前端后台/作业/练习JS作业/播放列表收缩展开/播放列表.html",
+				"/D/前端后台/less/index.html",
+				"/D/前端后台/less/styles/main.css",
+				"/D/前端后台/less/styles/main.less",
+				"/D/前端后台/less/less-资料级源码/Less/less_lizi/style/main.less",
+				"/D/前端后台/less/less-资料级源码/Less/less_lizi/index.html",
+				"/D/前端后台/less/less-资料级源码/Less/less_lizi/style/main.css",
+				"/D/前端后台/less/less-资料级源码/Less/less_lizi/style/a.css",
+				"/D/前端后台/less/less-资料级源码/Less/less_lizi/style/ku.less",
+				"/D/前端后台/H5小组任务/CampussayH5/app/scripts/areas/topic/hot/hot.ctrl.js",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/js/main.js",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/index2.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/index.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/angularjs菜鸟/外部文件中的控制器html.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/angularjs菜鸟/外部文件中的控制器.js",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第一章第一节快速上手源代码/AngularJS实战第一章第一节源代码/app/HelloAngular_Module.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第一章第一节快速上手源代码/AngularJS实战第一章第一节源代码/app/HelloAngular_Module.js",
+				"/D/前端后台/H5小组任务/CampussayH5/dist/res/styles/bundle.css",
+				"/D/前端后台/H5小组任务/CampussayH5/app/res/styles/topic-hot.less",
+				"/D/前端后台/H5小组任务/CampussayH5/app/res/styles/css/topic-hot.css",
+				"/D/前端后台/H5小组任务/CampussayH5/app/scripts/areas/topic/topic.route.js",
+				"/D/前端后台/H5小组任务/CampussayH5/app/scripts/areas/topic/topic.ctrl.js",
+				"/D/前端后台/H5小组任务/CampussayH5/dist/bundle.js",
+				"/D/前端后台/H5小组任务/CampussayH5/app/index.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/创建和部署controller.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/UI-Router练习/UI.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/UI-Router练习/UI.js",
+				"/D/前端后台/H5小组任务/AngularJS-/README.md",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/index-disabled.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/js/创建和部署controller.js",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第三章第三节指令的执行过程源代码/03-04 Two-Way Data Binding-表单验证/Form.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/03-04 Two-Way Data Binding-表单验证/Form.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJs练习/$filter.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第三章第一节AngularJS的启动过程源代码/Boot3.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/index.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第三章第一节AngularJS的启动过程源代码/Boot1.js",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第三章第一节AngularJS的启动过程源代码/angular-obj.html",
+				"/D/前端后台/H5小组任务/AngularJS-/Angularjs学习/慕课-AngualrJS表单验证/app/main.js",
+				"/D/前端后台/H5小组任务/CampussayH5/readme.txt",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/NgClass.js",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/NgClass.css",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/NgClass.html",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/Form.html",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/CSS1.css",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/NgShow.js",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/CSS1.js",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/Form.js",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/HelloAngular_bind.html",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第一节MVC源代码/AngularJS实战第二章第一节MVC源代码/app/Scope1.html",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/CSS1.html",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第一节MVC源代码/AngularJS实战第二章第一节MVC源代码/app/Scope1.css",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第三节双向数据绑定源代码-app/NgShow.html",
+				"/D/前端后台/H5小组任务/Angularjs学习/慕课-精通AngularJS/AngularJS实战资料/AngularJS实战第二章第二节路由、模块、依赖注入源代码-BookStore/app/index.html",
+				"/C/Users/朝露昙花/Desktop/响应式web设计.md",
+				"/D/前端后台/H5小组任务/Angularjs/angularjs菜鸟/Angular.html",
+				"/D/前端后台/H5小组任务/Angularjs/angularjs菜鸟/Ajs模型.html",
+				"/C/Users/朝露昙花/AppData/Local/Temp/HZ$D.845.2846/HZ$D.845.2847/angular.js-master/README.md",
+				"/D/数据结构与C++专属/c++.cpp",
+				"/D/前端后台/CQUPTBeeStudy/campusSay/campusSay/README.md",
+				"/E/陈维东",
+				"/C/Users/朝露昙花/Desktop/team2-a68cfad8039b8fc940b85665f56595cfdb84db97/HuangChongqing/index.html",
+				"/D/前端后台/练习/雪碧图/csssprite.html",
+				"/D/前端后台/练习/分页页码制作/分页页码制作（源代码）/加入小图标 i.htm",
+				"/D/前端后台/练习/雪碧图/csssprite.css",
+				"/D/前端后台/练习/padding50%实现正方形.html",
+				"/D/前端后台/练习/分页页码制作/修复行内bug.html",
+				"/D/前端后台/练习/导航条制作/滚动导航条.html",
+				"/C/Users/朝露昙花/AppData/Local/Temp/HZ$D.229.4972/HZ$D.229.4973/JavaScript面向对象/JavaScriptOO编程.md",
+				"/D/前端后台/作业/学习任务1/html/style/css.css",
+				"/D/前端后台/练习/分页页码制作/分页1.html",
+				"/D/前端后台/练习/手把手教你实现电商网站开发/index.html",
+				"/D/前端后台/练习/手把手教你实现电商网站开发/style/style.css",
+				"/D/前端后台/常用插件及样式/reset.css"
+			],
+			"find":
+			{
+				"height": 59.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"header",
+					"tpl",
+					"side",
+					"siderbar",
+					"sider",
+					"header",
+					"IscrollRe",
+					"IscrollRefresh",
+					".first",
+					"=\"\"",
+					"这里是面板的主体区域",
+					"title",
+					"},\n",
+					"auto_complete",
+					"saf",
+					"fgdhndgf",
+					"images",
+					"images3",
+					";\n",
+					"this",
+					"fff",
+					"aSum",
+					"0",
+					";\n",
+					"center",
+					"2",
+					"5",
+					"getElementsByClassName('day')",
+					"getElementsByClassName",
+					"<a href=\"http://www.miaov.com/\"><img src=\"images/1.jpg\" />",
+					"fnSucc",
+					"<ul>\n\t\t\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>\n\t\t<li></li>",
+					"li",
+					"function",
+					"Microsoft",
+					"new",
+					"#\n",
+					"><",
+					"title"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\前端后台"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/前端后台/项目/campussay_tutor/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 716,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										716,
+										716
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2339.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/前端后台/项目/campussay_tutor/app/page/index/main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6277,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1168,
+										1168
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 583.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/前端后台/项目/campussay_tutor/app/page/index/main.handlebars",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 104,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										32,
+										25
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/前端后台/项目/campussay_tutor/app/page/index/view/creamListFooter.handlebars",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 107,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9,
+										15
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/前端后台/项目/campussay_tutor/app/page/index/list.handlebars",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 527,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										205,
+										205
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 5,
+							"file": "/D/前端后台/项目/campussay_tutor/app.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 823,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14,
+										14
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 51.0
+			},
+			"input":
+			{
+				"height": 56.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.969192852742,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,996,190,190,1173",
+			"project": "",
+			"replace":
+			{
+				"height": 98.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"juicer",
+						"CQUPTBeeStudy\\campusSay\\campusSay\\src\\main\\webapp\\static\\js\\lib\\juicer.js"
+					],
+					[
+						"css",
+						"练习css.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 297.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 80,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

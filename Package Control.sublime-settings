@@ -22,6 +22,7 @@
 		"SublimeGit",
 		"SublimeLinter",
 		"Terminal",
-		"View In Browser"
+		"View In Browser",
+		"Bracket Highlighter"
 	]
 }
